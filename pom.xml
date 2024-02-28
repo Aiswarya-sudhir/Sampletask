@@ -14,12 +14,12 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
     <dependencies>
-        <!-- JUnit -->
+
         <dependency>
             <groupId>junit</groupId>
             <artifactId>junit</artifactId>
-            <version>4.13.2</version> <!-- Use the latest version -->
-            <scope>test</scope> <!-- JUnit is typically used for testing, so it's marked as test scope -->
+            <version>4.13.2</version>
+            <scope>test</scope>
         </dependency>
 
     </dependencies>
